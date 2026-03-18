@@ -2,7 +2,7 @@
 
 > "Son, if you really want something in this life, you have to work for it. Now quiet! They're about to announce the lottery numbers." — Homer Simpson
 
-I'm Mike, a recent Computer Science graduate from **CSULB**. I've previously worked as a CS Teaching Assistant at **CSULB** and as a CS Tutor at **El Camino College**. I'm passionate about full-stack development and currently collaborating on the **Hoppscotch**, an API Development platform, migrating their unit tests. I'm also an enthusiastic explorer in the exciting world of **AI**.
+I'm Mike, a recent Computer Science graduate from California State University. I've previously worked as a Computer Science Teaching Assistant at **CSULB** and as a Computer Science Tutor at **El Camino College**. I'm passionate about full-stack development and currently collaborating on the different Open-Source projects e.g. Dagster, Crawlee, Hoppscotch. I'm also an enthusiastic explorer in the exciting world of **AI**.
 
 
 <h3 align="left">Languages and Tools:</h3>
